@@ -1,0 +1,1 @@
+..\server-files\FXServer.exe +exec server.cfg +set gamename rdr3
